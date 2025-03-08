@@ -1,0 +1,3 @@
+/Users/harishr-mac/Desktop/multlimodal-exams-main/CMakeFiles/pipeline.dir
+/Users/harishr-mac/Desktop/multlimodal-exams-main/CMakeFiles/edit_cache.dir
+/Users/harishr-mac/Desktop/multlimodal-exams-main/CMakeFiles/rebuild_cache.dir
