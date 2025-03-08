@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/homebrew/opt/opencv/include/opencv4",
+                "/opt/homebrew/opt/poppler/include",
+                "/opt/homebrew/include",
+                "/opt/homebrew/opt/nlohmann-json/include",
+                "/Users/harishr-mac/Desktop/multlimodal-exams-main/vcpkg/installed/arm64-osx/include"
+            ],
+            "defines": [],
+            "compilerPath": "/opt/homebrew/opt/llvm/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
